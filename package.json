@@ -1,19 +1,23 @@
 {
-  "name": "chatter",
-  "version": "1.0.0",
-  "description": "��M\u0000o\u0000d\u0000i\u0000f\u0000i\u0000e\u0000d\u0000 \u0000t\u0000h\u0000e\u0000 \u0000c\u0000o\u0000n\u0000t\u0000e\u0000n\u0000t\u0000s\u0000\r\u0000 \u0000",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/anantcode/chatter.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/anantcode/chatter/issues"
-  },
-  "homepage": "https://github.com/anantcode/chatter#readme"
+    "name": "chatter",
+    "version": "1.0.0",
+    "description": "��M\u0000o\u0000d\u0000i\u0000f\u0000i\u0000e\u0000d\u0000 \u0000t\u0000h\u0000e\u0000 \u0000c\u0000o\u0000n\u0000t\u0000e\u0000n\u0000t\u0000s\u0000\r\u0000 \u0000",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/anantcode/chatter.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/anantcode/chatter/issues"
+    },
+    "homepage": "https://github.com/anantcode/chatter#readme",
+    "prettier": {
+        "tabWidth": 4,
+        "printWidth": 80
+    }
 }
